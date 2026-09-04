@@ -1,4 +1,5 @@
 'use client'
+// Force Cloudflare Pages rebuild - 2026-09-04 04:50 UTC
 import { useEffect, Suspense } from 'react'
 import { useSearchParams } from 'next/navigation'
 
